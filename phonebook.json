@@ -1,0 +1,5 @@
+[
+    {"id": 1, "firstName": "Иван", "lastName": "Иванов", "address": "г.Москва, ул. Алиева,2", "phoneNumber": "812 123-1234"},
+    {"id": 2, "firstName": "Семен", "lastName": "Сидоров", "address": "г.Москва, ул. Космонавтов,5", "phoneNumber": "495 123-1234"},
+    {"id": 3, "firstName": "Юрий", "lastName": "Кожедуб", "address": "г.Москва, ул. Севастопольская,11", "phoneNumber": "862 123-1234"}
+]
